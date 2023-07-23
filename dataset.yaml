@@ -1,0 +1,8 @@
+path: ./Data
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: NoPET
+  1: PET
